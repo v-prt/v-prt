@@ -5,7 +5,7 @@
 - I’m looking to collaborate on any simple web dev project!
 
 ## 💪 My Skills
-HTML5 - CSS - JavaScript - React - Node - GitHub
+HTML5 - CSS - JavaScript - React - Node - GitHub - VS Code
 - I'm great at:
   - [x] clean && organized code
   - [x] styling && design
