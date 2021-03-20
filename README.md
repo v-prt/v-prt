@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Victoria
+# 👋 Hi! I'm Victoria @v-prt
 
 - I'm currently learning **Full-Stack Web Dev** through Concordia University's online bootcamp
 - My goal is to make the web more beautiful and accessible for everyone
