@@ -2,7 +2,7 @@
 
 
 # 👋 Hi! I'm Victoria
-- Job Title: Web Developer at [Creator.co](https://creator.co/)
+- Job Title: Web Developer at [Creator](https://creator.co/)
 - Education: Diploma in Full-Stack Web Development from Concordia University
 - Goal: help make more beautiful, responsive, and accessible websites
 - Hobbies: hiking, video games, eating sushi, and travelling when there isn't a pandemic
@@ -19,6 +19,3 @@
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=b47cb3)
-
-## 🤟 Let's connect!
-[LinkedIn](https://www.linkedin.com/in/victoria-peart/) && [My Portfolio](https://victoriapeart.com)
