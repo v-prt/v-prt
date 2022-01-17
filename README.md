@@ -2,8 +2,8 @@
 
 
 # 👋 Hi! I'm Victoria
-- Job: Web Developer at [Creator](https://creator.co/)
-- Education: Diploma in Full-Stack Web Development from Concordia University
+- Job: Web Developer at [creator.co](https://creator.co/)
+- Education: Diploma in Full-Stack Web Development from Concordia University, 2021
 - Goal: help make more beautiful, responsive, and accessible websites
 - Loves: nature, animals, art, gaming, travelling, food & wine
 
