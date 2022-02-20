@@ -25,3 +25,7 @@
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=b47cb3)
+
+## 👇 My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-prt&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
