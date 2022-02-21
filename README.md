@@ -39,8 +39,8 @@
 </div>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=v-prt&title_color=ff8533&icon_color=b47cb3&bg_color=292b57&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&title_color=ff8533&icon_color=b47cb3&bg_color=292b57&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=v-prt&title_color=ff8533&icon_color=b47cb3&bg_color=292b57&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&title_color=ff8533&icon_color=b47cb3&bg_color=292b57&text_color=ffffff&hide_border=true&layout=compact" />
 </p>
 
 <h2 align='center'>My Projects</h2>
