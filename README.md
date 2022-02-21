@@ -2,9 +2,9 @@
 
 <div align='center'>
   
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white)](https://victoriapeart.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://victoriapeart.com)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/v-prt)
-[![LinkedIn](https://img.shields.io/badge/linkedin-027DF0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-peart)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-peart)
   
 </div>
 
@@ -15,8 +15,6 @@
   I earned my diploma in full-stack web development from Concordia University in 2021, and I'm currently working at <a href='https://creator.co'>Creator</a> in a small web dev team. I mostly enjoy working on the front-end and making beautiful, responsive, and accessible websites.
   Aside from coding, I love animals & nature, board games, travelling, and food & wine!
 </p>
-
----
 
 <h2 align='center'>My Skills & Stats</h2>
 <div align='center'>
@@ -41,17 +39,16 @@
 </div>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=v-prt&theme=jolly&show_icons=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&layout=compact&theme=jolly" />
+  <img src="https://github-readme-stats.vercel.app/api?username=v-prt&title_color=ff8533&icon_color=b47cb3&bg_color=292b57&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&line_height=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&title_color=ff8533&icon_color=b47cb3&bg_color=292b57&text_color=ffffff&hide_border=true" />
 </p>
-
----
 
 <h2 align='center'>My Projects</h2>
 <p align='center'>
-  <img width="400" src="https://user-images.githubusercontent.com/73324816/154865985-12ad1280-ace6-4801-b924-439639a5fc34.png" alt="plantgeek" />
+  <img width="400" src="https://user-images.githubusercontent.com/73324816/154877927-9e52912c-3e1d-4671-abc8-ac0b832b1e34.gif" alt="plantgeek" />
   <br />
   <a href="https://github.com/v-prt/plantgeek">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=v-prt&repo=plantgeek&theme=vue" />
   </a>
 </p>
+
