@@ -21,13 +21,12 @@
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=b47cb3)
- <br />
 ![](https://img.shields.io/badge/Wordpress-informational?style=flat&logo=Wordpress&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=b47cb3)
+<br/>
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Express&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=Node.js&logoColor=white&color=b47cb3)
- <br/>
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=b47cb3)
@@ -37,6 +36,7 @@
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=v-prt&title_color=ff8533&icon_color=b47cb3&bg_color=292b57&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&title_color=ff8533&icon_color=b47cb3&bg_color=292b57&text_color=ffffff&hide_border=true&layout=compact&custom_title=My Languages" />
 </p>
 
