@@ -48,7 +48,7 @@
   <img width="400" src="https://user-images.githubusercontent.com/73324816/154877927-9e52912c-3e1d-4671-abc8-ac0b832b1e34.gif" alt="plantgeek" />
   <br />
   <a href="https://github.com/v-prt/plantgeek">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=v-prt&repo=plantgeek&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=v-prt&repo=plantgeek&title_color=5d9e2e&bg_color=E5EFDC" />
   </a>
 </p>
 
