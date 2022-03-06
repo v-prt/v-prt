@@ -11,7 +11,8 @@
 ---
 
 <h1 align='center'>👋 Hi! I'm Victoria</h1>
-<p align='center'>I'm a full-stack developer with an affinity for design related coding, currently working at <a href='https://creator.co'>Creator</a> with a small dev team. I live in West Kelowna with my husband, and our two adorable cats 😽😸</p>
+<p align='center'>Timezone: Vancouver, Canada (PST)</p>
+<p align='center'>I'm a full-stack web developer with an affinity for design related coding, currently working at <a href='https://creator.co'>creator.co</a> with a small dev team. I live in West Kelowna, BC with my husband, and our two adorable cats 😽😸</p>
 
 <h2 align='center'>Skills & Stats</h2>
 <div align='center'>
@@ -42,10 +43,12 @@
 
 <h2 align='center'>My Projects</h2>
 <p align='center'>
-  <img width="400" src="https://user-images.githubusercontent.com/73324816/154877927-9e52912c-3e1d-4671-abc8-ac0b832b1e34.gif" alt="plantgeek" />
-  <br />
+  <img width="400" alt="plantgeek" src="https://user-images.githubusercontent.com/73324816/154877927-9e52912c-3e1d-4671-abc8-ac0b832b1e34.gif" />
+  <img width="400" alt="sushi-heaven" src="https://user-images.githubusercontent.com/73324816/156939198-9a578b6c-6f13-46a0-af7f-ecdf4aa15d04.gif" />
   <a href="https://github.com/v-prt/plantgeek">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=v-prt&repo=plantgeek&title_color=5d9e2e&bg_color=E5EFDC" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=v-prt&repo=plantgeek&title_color=5d9e2e&bg_color=E5EFDC" />
+  </a>
+  <a href="https://github.com/v-prt/sushi-heaven">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=v-prt&repo=sushi-heaven&title_color=ff6db6&bg_color=feeabf" />
   </a>
 </p>
-
