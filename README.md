@@ -3,7 +3,6 @@
 <div align='center'>
   
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://victoriapeart.com)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/v-prt)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-peart)
   
 </div>
@@ -12,7 +11,7 @@
 
 <h1 align='center'>👋 Hi! I'm Victoria</h1>
 <p align='center'>Timezone: Vancouver, Canada (PST)</p>
-<p align='center'>I'm a full-stack web developer with an affinity for design related coding, currently working at <a href='https://creator.co'>Creator</a>. I live in West Kelowna, BC with my husband and our two adorable cats 😽😸</p>
+<p align='center'>I'm a full-stack web developer with an affinity for UX and design related coding, currently working at <a href='https://creator.co'>Creator</a>. I live in West Kelowna, BC with my husband and our two adorable cats 😽😸</p>
 
 <h2 align='center'>Skills & Stats</h2>
 <div align='center'>
@@ -34,12 +33,6 @@
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=b47cb3)
 </div>
-
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=v-prt&title_color=ff8533&icon_color=b47cb3&bg_color=292b57&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&title_color=ff8533&icon_color=b47cb3&bg_color=292b57&text_color=ffffff&hide_border=true&layout=compact&custom_title=My Languages" />
-</p>
 
 <h2 align='center'>My Projects</h2>
 <p align='center'>
