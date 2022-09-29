@@ -11,7 +11,7 @@
 
 <h1 align='center'>👋 Hi! I'm Victoria</h1>
 <p align='center'>Timezone: Vancouver, Canada (PST)</p>
-<p align='center'>I'm a full-stack web developer and UX/UI engineer. I live in West Kelowna, BC with my husband and our two adorable cats 😽😸</p>
+<p align='center'>I'm a full-stack web developer specializing in UX/UI. I live in West Kelowna, BC with my husband and our two adorable cats 😽😸</p>
 
 <h2 align='center'>Skills</h2>
 <div align='center'>
