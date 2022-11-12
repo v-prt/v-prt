@@ -12,7 +12,7 @@
 <h1 align='center'>👋 Hi! I'm Victoria</h1>
 <p align='center'>Timezone: Vancouver, Canada (PST)</p>
 <p align='center'>I'm a full-stack web developer specializing in UX/UI. I live in West Kelowna, BC with my husband and our two adorable cats 😽😸</p>
-
+  
 <h2 align='center'>Skills</h2>
 <div align='center'>
   
@@ -35,6 +35,11 @@
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&logoColor=white&color=b47cb3)
+  
+<br/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <h2 align='center'>My Projects</h2>
