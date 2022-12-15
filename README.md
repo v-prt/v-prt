@@ -1,6 +1,9 @@
 [![](https://user-images.githubusercontent.com/73324816/118895355-dc09f500-b8ba-11eb-912e-6d1b4882e0bb.png)](https://victoriapeart.com)
+<br/>
+<br/>
 
 <h2 align='center'>My Skills</h2>
+
 <div align='center'>
   
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=b47cb3)
@@ -23,11 +26,10 @@
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&logoColor=white&color=b47cb3)
   
-<br/>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+<br/>
 
 <h2 align='center'>My Projects</h2>
 <p align='center'>
@@ -38,6 +40,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=v-prt&repo=sushi-heaven&title_color=ff6db6&bg_color=feeabf" />
   </a>
 </p>
+<br/>
 
 ---
 
