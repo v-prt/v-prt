@@ -1,18 +1,6 @@
 [![](https://user-images.githubusercontent.com/73324816/118895355-dc09f500-b8ba-11eb-912e-6d1b4882e0bb.png)](https://victoriapeart.com)
 
-<div align='center'>
-  
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://victoriapeart.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-peart)
-  
-</div>
-
----
-
-<h1 align='center'>👋 Hi! I'm Victoria</h1>
-<p align='center'>I'm a full-stack web developer specializing in UX/UI. I live in West Kelowna, BC with my husband and our two adorable cats 😽😸</p>
-  
-<h2 align='center'>Skills</h2>
+<h2 align='center'>My Skills</h2>
 <div align='center'>
   
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=b47cb3)
@@ -50,3 +38,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=v-prt&repo=sushi-heaven&title_color=ff6db6&bg_color=feeabf" />
   </a>
 </p>
+
+---
+
+<div align='center'>
+  
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://victoriapeart.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-peart)
+  
+</div>
