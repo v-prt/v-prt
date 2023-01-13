@@ -25,24 +25,6 @@
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&logoColor=white&color=b47cb3)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-<br/>
-
-<h2 align='center'>My Projects</h2>
-<p align='center'>
-  <a href="https://github.com/v-prt/plantgeek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=v-prt&repo=plantgeek&title_color=5d9e2e&bg_color=E5EFDC" />
-  </a>
-  <a href="https://github.com/v-prt/sushi-heaven">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=v-prt&repo=sushi-heaven&title_color=ff6db6&bg_color=feeabf" />
-  </a>
-</p>
-<br/>
-
----
 
 <div align='center'>
   
