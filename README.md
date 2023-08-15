@@ -1,8 +1,5 @@
 [![](https://user-images.githubusercontent.com/73324816/118895355-dc09f500-b8ba-11eb-912e-6d1b4882e0bb.png)](https://victoriapeart.com)
 <br/>
-<br/>
-
-<h2 align='center'>My Skills</h2>
 
 <div align='center'>
   
@@ -25,8 +22,6 @@
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=b47cb3)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&logoColor=white&color=b47cb3)
-
-<div align='center'>
   
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://victoriapeart.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-peart)
